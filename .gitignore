@@ -2,6 +2,7 @@
 *.xlsx
 *.csv
 *.json
+!test_data/*.json
 
 # Python
 __pycache__/
