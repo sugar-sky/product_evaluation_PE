@@ -1,0 +1,20 @@
+# Data files
+*.xlsx
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Results & logs
+results_*.md
+results_*.csv
+results_*.json
+fp_fn_analysis*.md
+log_*.txt
